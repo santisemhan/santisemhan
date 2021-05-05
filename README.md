@@ -1,8 +1,11 @@
-                ¡Hi there 👋! I´m Santiago Semhan
-                       I love programming 💻
-    I´m a full stack programmer with almost 2 years of experience
+                                  ![image](https://user-images.githubusercontent.com/58712215/117207185-0c856580-adca-11eb-91c3-a41d543cf348.png) 
+                
+                                                                 #¡Hi there 👋! I´m **Santiago Semhan**
+                
+                                                                        ##I love **programming** 💻
+                                                   ##I´m a **Full Stack** programmer with almost 2 years of experience
 
-           I work in chubut as a Full Stack programmer
+                                                          #####I work in **Chubut It** as a Full Stack programmer
 
 
 
