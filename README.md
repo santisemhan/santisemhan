@@ -1,4 +1,10 @@
-Hi there 👋
+                ¡Hi there 👋! I´m Santiago Semhan
+                       I love programming 💻
+    I´m a full stack programmer with almost 2 years of experience
+
+           I work in chubut as a Full Stack programmer
+
+
 
 <!--
 **santisemhan/santisemhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
