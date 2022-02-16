@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://i.ibb.co/jf8tbdt/123-Captura.png"/>
+  <img src="https://networks.imdea.org/wp-content/uploads/2021/09/media-file-code-900x500.png"/>
 </div>
