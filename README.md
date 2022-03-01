@@ -13,9 +13,8 @@
                 • Angular Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)</p>
         
 - 🤓 Professional Experience:
-<p> 
-                • **.NET Full Stack** developer for Linksolution SRL (2020 - 2021)          
-                • **.NET && Angular Full Stack** developer for Chubut IT (2021 - actuality) </p>
+               <p>      • **.NET Full Stack** developer for Linksolution SRL (2020 - 2021)          
+                        • **.NET && Angular Full Stack** developer for Chubut IT (2021 - actuality) </p>
                 
 <hr/>
 <h3 align="left">Languages</h3>
