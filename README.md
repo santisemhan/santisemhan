@@ -8,7 +8,7 @@
 - 📫 How to reach me **santisemhan2@gmail.com**
 
 - 📚 Education:
-        <p align="center">     • Technique in Software Development in [UADE](https://www.uade.edu.ar/) (2020 - 2023)        
+        <p align="left">     • Technique in Software Development in [UADE](https://www.uade.edu.ar/) (2020 - 2023)        
                 • React Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)       
                 • Angular Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)</p>
         
