@@ -9,7 +9,7 @@
 
 - 📚 Education:
         <p align="left">  • Technique in Software Development in [UADE](https://www.uade.edu.ar/) (2020 - 2023)  <br/> 
-                • React Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/) <br/>               
+                <br/> • React Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/) <br/>               
                 • Angular Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/) <br/></p>
         
 - 🤓 Professional Experience:
