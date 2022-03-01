@@ -8,16 +8,13 @@
 - 📫 How to reach me **santisemhan2@gmail.com**
 
 - 📚 Education:
-        <p>     • Technique in Software Development in [UADE](https://www.uade.edu.ar/) (2020 - 2023) 
-        
-                • React Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/) 
-        
+        <p>     • Technique in Software Development in [UADE](https://www.uade.edu.ar/) (2020 - 2023)        
+                • React Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)       
                 • Angular Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)</p>
         
 - 🤓 Professional Experience:
 <p> 
-                • **.NET Full Stack** developer for Linksolution SRL (2020 - 2021)  
-        
+                • **.NET Full Stack** developer for Linksolution SRL (2020 - 2021)          
                 • **.NET && Angular Full Stack** developer for Chubut IT (2021 - actuality) </p>
                 
 <hr/>
