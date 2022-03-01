@@ -53,4 +53,4 @@
     </a>
 </p>
 <hr/>
-[View CV](https://drive.google.com/file/d/1JCeMkN2VMxiidX6WvZB561iZq3flDzws/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1JCeMkN2VMxiidX6WvZB561iZq3flDzws/view?usp=sharing">See my complete CV here 😎 </a>
