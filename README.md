@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
+<h1 align="center">Hi 👋, I'm Santiago Semhan</h1>
 <h3 align="center">A full stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Chubut IT](https://www.chubut.it/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/santisemhan?tab=repositories](https://github.com/santisemhan?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/santisemhan?tab=repositories)
 
 - 📫 How to reach me **santisemhan2@gmail.com**
 
+- 📚 Education:
+        • Technique in Software Development in [UADE](https://www.uade.edu.ar/) (2020 - 2023)  
+        
+        • React Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)
+        
+        • Angular Bootcamp in [UTN FRBA](https://www.frba.utn.edu.ar/)
+        
+- 🤓 Professional Experience:
+                • **.NET Full Stack** developer for Linksolution SRL (2020 - 2021)
+                
+                • **.NET && Angular Full Stack** developer for Chubut IT (2021 - actuality) 
+                
 <hr/>
 <h3 align="left">Languages</h3>
 <p align="left"> 
@@ -28,6 +40,7 @@
 <p align="left">   
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="react" width="40" height="40" /> </a>
 </p>
 <hr/>
 <h3 align="left">Databases</h3>
