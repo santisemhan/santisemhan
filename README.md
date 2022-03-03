@@ -52,5 +52,3 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago semhan" height="30" width="40" />
     </a>
 </p>
-<hr/>
-<a href="https://drive.google.com/file/d/1A1Q2k-hcdiEqYx8cLUw8gkZz2R-rUjEm/view?usp=sharing">See my complete CV here 😎 </a>
