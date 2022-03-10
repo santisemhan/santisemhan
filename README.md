@@ -17,7 +17,7 @@
                         • **.NET && Angular Full Stack** developer for [Chubut IT](https://www.chubut.it/) (2021 - actuality) <br/> </p>
                 
 - 💡Side-Projects:<br/> 
-     **[Ch4t (Chat App)](https://ch4t.azurewebsites.net/)** <br/> 
+     📩 **[Ch4t (Chat App)](https://ch4t.azurewebsites.net/)** <br/> 
      **Repositorys:** **[Backend](https://github.com/santisemhan/chat-app-backend)** - **[Frontend](https://github.com/santisemhan/chat-app-frontend)**<br/> 
      **Technologies:** .NET (SignalR) && Angular 
      <hr/>
