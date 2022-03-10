@@ -20,7 +20,6 @@
      📩 **[Ch4t (Chat App)](https://ch4t.azurewebsites.net/)** <br/> 
      **Repositorys:** **[Backend](https://github.com/santisemhan/chat-app-backend)** - **[Frontend](https://github.com/santisemhan/chat-app-frontend)**<br/> 
      **Technologies:** .NET (SignalR) && Angular 
-     <hr/>
                         
 <hr/>
 <h3 align="left">Languages</h3>
