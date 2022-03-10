@@ -16,6 +16,11 @@
                <p align="left">      • **.NET Full Stack** developer for [Linksolution SRL](https://www.linksolution.com.ar/) (2020 - 2021)  <br/>        
                         • **.NET && Angular Full Stack** developer for [Chubut IT](https://www.chubut.it/) (2021 - actuality) <br/> </p>
                 
+-💡Side-Projects:
+<p align="left">      • **[Ch4t (Chat App)](https://ch4t.azurewebsites.net/)** 
+                          Repositorys: [Backend](https://github.com/santisemhan/chat-app-backend) - [Frontend](https://github.com/santisemhan/chat-app-frontend)
+                          Technologies: .NET (SignalR) && Angular <br/>        
+                        
 <hr/>
 <h3 align="left">Languages</h3>
 <p align="left"> 
