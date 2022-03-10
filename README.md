@@ -19,7 +19,7 @@
 -💡Side-Projects:
 <p align="left">      • **[Ch4t (Chat App)](https://ch4t.azurewebsites.net/)** 
                           Repositorys: [Backend](https://github.com/santisemhan/chat-app-backend) - [Frontend](https://github.com/santisemhan/chat-app-frontend)
-                          Technologies: .NET (SignalR) && Angular <br/>        
+                          Technologies: .NET (SignalR) && Angular <br/></p>
                         
 <hr/>
 <h3 align="left">Languages</h3>
