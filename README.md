@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Semhan</h1>
 <h3 align="center">A full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Chubut IT](https://www.chubut.it/)
+- 🔭 I’m currently working at [Chubut IT](https://www.chubut.it/)
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/santisemhan?tab=repositories)
 
