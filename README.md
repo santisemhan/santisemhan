@@ -1,4 +1,4 @@
-<img src="assets/y-key.gif" alt="Levi" width="100%"/>
+<img src="assets/homer-tv.gif" alt="homer in the tv" width="50%"/>
 
 ---
 
